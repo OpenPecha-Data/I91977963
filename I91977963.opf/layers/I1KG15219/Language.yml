@@ -1,13 +1,13 @@
-id: 8642b5d6ae164e4a89fc2cd3426bcbd0
+id: 0ed6195e426e4e9888fea4c001366d4d
 annotation_type: Language
 revision: '00001'
 annotations:
-  917bb61dac964becab5f093f78021929:
+  81b7e615cb5344d18d02cbef6bf99199:
     span:
       start: 40
       end: 765
     language: en
-  47a7611921ce4fc6aad2fe9c03ca8491:
+  52513650d2c84df98dc6be2011b9084d:
     span:
       start: 1388
       end: 1409
